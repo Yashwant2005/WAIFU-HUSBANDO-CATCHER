@@ -6,7 +6,7 @@ class Config(object):
     sudo_users = "6570434731", "6117482949"
     GROUP_ID = -1002069282863
     TOKEN = "6968464825:AAESoG4AK4LRccpTX2ksx1DEF3EZo0FExa8"
-    mongo_url = "mongodb+srv://Mrdaxx123:Mrdaxx123@cluster0.q1da65h.mongodb.net/?retryWrites=true&w=majority"
+    mongo_url = "mongodb+srv://gojox:rVs8kcY90GNYJ1tc@gojooo.ykwxy4g.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/06355103255bdeaf79912.jpg", "https://telegra.ph/file/8d7966de81833aca719f5.jpg"]
     SUPPORT_CHAT = "anime_savage_Group"
     UPDATE_CHAT = "Pro_Bot_Support"
