@@ -9,7 +9,7 @@ class Config(object):
     mongo_url = "mongodb+srv://Mrdaxx123:Mrdaxx123@cluster0.q1da65h.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/06355103255bdeaf79912.jpg", "https://telegra.ph/file/8d7966de81833aca719f5.jpg"]
     SUPPORT_CHAT = "anime_savage_Group"
-    UPDATE_CHAT = "Pro_Bot_Suppport"
+    UPDATE_CHAT = "Pro_Bot_Support"
     BOT_USERNAME = "Guess_Your_Characters_ProBot"
     CHARA_CHANNEL_ID = "-1002104813341"
     api_id = "27684245"
