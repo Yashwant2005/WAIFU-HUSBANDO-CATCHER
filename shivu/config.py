@@ -7,7 +7,7 @@ class Config(object):
     GROUP_ID = -1002069282863
     TOKEN = "6968464825:AAESoG4AK4LRccpTX2ksx1DEF3EZo0FExa8"
     mongo_url = "mongodb+srv://Mrdaxx123:Mrdaxx123@cluster0.q1da65h.mongodb.net/?retryWrites=true&w=majority"
-    PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
+    PHOTO_URL = ["https://telegra.ph/file/06355103255bdeaf79912.jpg", "https://telegra.ph/file/8d7966de81833aca719f5.jpg"]
     SUPPORT_CHAT = "anime_savage_Group"
     UPDATE_CHAT = "Pro_Bot_Suppport"
     BOT_USERNAME = "Guess_Your_Characters_ProBot"
