@@ -18,18 +18,18 @@ LOGGER = logging.getLogger(__name__)
 from shivu.config import Development as Config
 
 
-api_id = Config.api_id
-api_hash = Config.api_hash
-TOKEN = Config.TOKEN
-GROUP_ID = Config.GROUP_ID
-CHARA_CHANNEL_ID = Config.CHARA_CHANNEL_ID 
-mongo_url = Config.mongo_url 
-PHOTO_URL = Config.PHOTO_URL 
-SUPPORT_CHAT = Config.SUPPORT_CHAT 
-UPDATE_CHAT = Config.UPDATE_CHAT
-BOT_USERNAME = Config.BOT_USERNAME 
-sudo_users = Config.sudo_users
-OWNER_ID = Config.OWNER_ID 
+api_id = Config.20445250
+api_hash = Config.bfbbf803eee1288fb89c7699f8f2ee38
+TOKEN = Config.6619729028:AAFeFlrJavlN1LQsysaiDlFtDU1wPuTmeqg
+GROUP_ID = Config.-1002000357053
+CHARA_CHANNEL_ID = Config.-1001909407081 
+mongo_url = Config.6619729028:AAFeFlrJavlN1LQsysaiDlFtDU1wPuTmeqg 
+PHOTO_URL = Config.https://telegra.ph/file/a958e54b705a3ca55d3ca.jpg  
+SUPPORT_CHAT = Config.-1002000357053 
+UPDATE_CHAT = Config.-1001909407081
+BOT_USERNAME = Config.http://t.me/Bigwif_bot 
+sudo_users = Config.5630999850
+OWNER_ID = Config.1661129466 
 
 application = Application.builder().token(TOKEN).build()
 shivuu = Client("Shivu", api_id, api_hash, bot_token=TOKEN)
